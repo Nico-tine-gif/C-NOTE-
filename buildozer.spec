@@ -46,4 +46,3 @@ build_dir = ./.buildozer
 bin_dir = ./bin
 
 # Host Python version (should match your system's Python 3.11)
-p4a.source_dir = /data/data/com.termux/files/home/p4a_fixed
