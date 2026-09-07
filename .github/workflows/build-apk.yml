@@ -29,3 +29,4 @@ jobs:
         with:
           name: CryptoMasterX1-APK
           path: bin/*.apk
+          
