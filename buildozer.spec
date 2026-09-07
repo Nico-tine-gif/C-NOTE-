@@ -13,7 +13,7 @@ source.exclude_dirs = .git,.github,.buildozer,bin,build,app,venv,__pycache__
 version = 1.0.0
 
 # Python requirements (add only what your app imports)
-requirements = python3,kivy,requests,urllib3,charset-normalizer,certifi,idna,websocket-client,cryptography
+requirements = python3,kivy,requests,urllib3,websocket-client
 # Android specific settings
 android.ndk = 25b
 android.minapi = 21
